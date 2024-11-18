@@ -1,6 +1,6 @@
 # geo-address-parser
 
-## addSupervisor.py
+## match_supervisor.py
 This script works with two files.
 The first one is a main file. It's an *.xlsx with agents. Each agent has: 1) the address of their work; 2) an ID of a workplace.
 The second file is a reference. Its structure is: 1) subject of the Russian Federation; 2) directorate of the bank which manages this subject; 3) manager that works in this directorate; 4) manager's ID; 5) a settlement which is curated by this manager.
